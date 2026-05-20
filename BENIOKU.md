@@ -1,4 +1,4 @@
-# Yapay Zeka Çağında Psikotarih: Toplumsal Kırılmaları Hesaplamanın ve Geleceği Bükmenin Algoritması
+# Yapay Zeka Çağında Psikotarih: Toplumsal Kırılmaları Hesaplamanın ve Geleceği Bükmenin Algoritması222
 
 **Yazar:** Emin ...  
 
