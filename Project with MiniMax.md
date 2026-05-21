@@ -1,8 +1,10 @@
 # Psychohistory: Can Asimov's Imaginary Science Become Real with Artificial Intelligence?
 
-**Authors:** Emin Danışman
+**Authors:** Emin 
 **Contributing:** MiniMax Agent
-**Date:** 2025
+**Date:** 2026
+
+[Bu makalenin Türkçe versiyonu](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CMiniMax%20ile.md)
 
 ---
 
@@ -133,7 +135,7 @@ The fundamental assumption of classical economics: *"Humans are rational actors.
 │  ═══════════════          ════════════════════    ════════════════│
 │                                                                 │
 │  Leader: Hero/Dictator     Leader: Rule-maker/Religious  Leader: Capitalist│
-│  Motivation: Sacrifice      Motivation: Rules and order   Motivation: │
+│  Motivation: Sacrifice      Motivation: Rules and order   Motivation:Profit │
 │  Decision: Emotional/Inspirational  Decision: Near rational  Decision: Predatory│
 │  Sacrifice: VERY EASY      Sacrifice: DIFFICULT       Sacrifice: IMPOSSIBLE│
 │  Cohesion: ★★★★★          Cohesion: ★★★         Cohesion: ★        │
@@ -167,21 +169,21 @@ The Mongols conquered but could not govern. The Turks conquered and assimilated 
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    CULTURAL CODE MATRIX                        │
+│                    CULTURAL CODE MATRIX                         │
 │                                                                 │
-│  INDIVIDUAL DIMENSIONS:                                        │
-│  • Adaptation Capacity        (Turkish: ★★★★★)                  │
-│  • Curiosity Level           (Chinese: Low, Turkish: Medium)   │
+│  INDIVIDUAL DIMENSIONS:                                         │
+│  • Adaptation Capacity        (Turkish: ★★★★★)               │
+│  • Curiosity Level           (Chinese: Low, Turkish: Medium)    │
 │  • Risk Tolerance           (Turkish: High)                     │
-│  • Time Horizon             (Short-term societies = Low)      │
+│  • Time Horizon             (Short-term societies = Low)        │
 │                                                                 │
-│  COLLECTIVE STRUCTURES:                                        │
-│  • Trust in Central Government (Turkish: ★★☆☆☆)                │
-│  • Tribal/Clan Identity      (Turkish: ★★★★☆)                   │
-│  • Collectivism vs Individualism                                 │
+│  COLLECTIVE STRUCTURES:                                         │
+│  • Trust in Central Government (Turkish: ★★☆☆☆)              │
+│  • Tribal/Clan Identity      (Turkish: ★★★★☆)                │
+│  • Collectivism vs Individualism                                │
 │                                                                 │
-│  HISTORICAL EXPERIENCE:                                        │
-│  • "Getting Scammed" History    (Turkish: Coups, betrayals)      │
+│  HISTORICAL EXPERIENCE:                                         │
+│  • "Getting Scammed" History    (Turkish: Coups, betrayals)     │
 │  • Distance from Last Crisis                                    │
 │  • Generations of Collective Memory                             │
 └─────────────────────────────────────────────────────────────────┘
@@ -348,17 +350,17 @@ Where:
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│              MOTIVATION-HOPE MATRIX                              │
+│              MOTIVATION-HOPE MATRIX                             │
 │                                                                 │
 │                      NO HOPE              HAS HOPE              │
-│                   ┌──────────────┐      ┌──────────────┐       │
-│  MOTIVATION      │              │      │              │       │
-│  HIGH           │   DESTRUCTIVE │      │  CONSTRUCTIVE │       │
-│                   │              │      │              │       │
+│                   ┌──────────────┐      ┌──────────────┐        │
+│  MOTIVATION       │              │      │              │        │
+│  HIGH             │   DESTRUCTIVE│      │  CONSTRUCTIVE│        │
+│                   │              │      │              │        │
 │                   │ • Brain drain│      │ • Entrepreneurship│   │
 │                   │ • Escape     │      │ • Innovation  │       │
-│                   │ • Fragmentation│     │ • Progress   │       │
-│                   └──────────────┘      └──────────────┘       │
+│                   │ • Fragmentation│    │ • Progress   │        │
+│                   └──────────────┘      └──────────────┘        │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -460,7 +462,7 @@ VALIDATION LOOP:
 
 [Unemployment caused by artificial intelligence will not only push the economy into stagflation; unemployed people will support radical anti-AI populist politicians, and unemployed computer experts will develop AI viruses using local AIs and try to destroy the entire digital world.]
 
-*For a more detailed analysis on this topic, see: [Medium: AI Stagflation and Radical Populism Danger](https://medium.com/p/8cea2a1bce13)*
+*For a more detailed analysis on this topic, see: [Medium: AI Stagflation and AI viruses Danger](https://medium.com/p/9653ed8dd423)*
 
 ### 10.2 Hope Ecosystem: Parallel System Proposal
 
@@ -536,6 +538,6 @@ The question now is: **What will we use this power for?**
 
 ---
 
-*This article is a brainstorming study created under the leadership of Emin Danışman and with the formula development by MiniMax Agent. The development of psychohistory science requires open collaboration and continuous testing. Formulas and approaches will be revised with future research.*
+*This article is a brainstorming study created under the leadership of Emin  and with the formula development by MiniMax Agent. The development of psychohistory science requires open collaboration and continuous testing. Formulas and approaches will be revised with future research.*
 
 **License**: Creative Commons Attribution-ShareAlike
