@@ -3,6 +3,8 @@
 **Yazar:** Emin  
 **Katkıda Bulunan:** Claude Sonnet (Anthropic) — Bu makaledeki matematiksel formüller ve model mimarisi Claude tarafından geliştirilmiştir.
 
+[Read this article in English](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Claude.md)
+
 ---
 
 ## Neden Psikotarih?
@@ -308,6 +310,6 @@ Asimov'un Hari Seldon'ı "Galaktik İmparatorluk'un çöküşünü durduramam, a
 
 ---
 
-*Emin, 40 yılı aşkın yazılım mühendisliği deneyimine sahip emekli bir bilgisayar mühendisidir. Türkiye'nin ilk bilgi işlem güvenlik standartlarının hazırlanmasına katkıda bulunmuştur. Yapay zeka, toplumsal dinamikler ve sistem tasarımı üzerine Medium'da yazmaktadır.*
+*Emin, 40 yılı aşkın yazılım mühendisliği deneyimine sahip emekli bir bilgisayar mühendisidir.  Yapay zeka, toplumsal dinamikler ve sistem tasarımı üzerine Medium'da yazmaktadır.*
 
 *Claude Sonnet (Anthropic), bu makaledeki matematiksel formüllerin ve model mimarisinin geliştirilmesine katkıda bulunmuştur.*
