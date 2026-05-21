@@ -3,6 +3,8 @@
 **Author:** Emin  
 **Contributing AI:** Claude Sonnet (Anthropic) — The mathematical formulas and model architecture in this article were developed by Claude.
 
+[Bu makalenin Türkçe versiyonu](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CClaude%20ile.md)
+
 ---
 
 ## Why Psychohistory?
@@ -304,6 +306,6 @@ Asimov's Hari Seldon said: "I cannot stop the fall of the Galactic Empire, but I
 
 ---
 
-*Emin is a retired computer engineer with over 40 years of software engineering experience. He contributed to the development of Turkey's first information security standards. He writes on artificial intelligence, societal dynamics, and system design on Medium.*
+*Emin is a retired computer engineer with over 40 years of software engineering experience.  He writes on artificial intelligence, societal dynamics, and system design on Medium.*
 
 *Claude Sonnet (Anthropic) contributed to the development of the mathematical formulas and model architecture presented in this article.*
