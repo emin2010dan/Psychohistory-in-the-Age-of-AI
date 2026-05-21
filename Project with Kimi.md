@@ -1,5 +1,9 @@
 # Psychohistory 2.0: The Mathematics of History in the Age of Artificial Intelligence
 
+### Contributed By Kimi
+
+[Bu makalenin Türkçe versiyonu](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Proje%2CKimi%20ile.md)
+
 ## A Brainstorming Article
 
 ---
