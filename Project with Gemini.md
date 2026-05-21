@@ -2,7 +2,8 @@
 
 **Author:** Emin ...  
 **Contributor:** Gemini (Google)  
-
+---
+**[Bu makalenin İngilizce versiyonu için](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/7135cb0c69ccd5c7948058f72fdff6966608b1a4/Proje%2C%20Gemini%20ile.md)**.
 ---
 
 Asimov’s "Psychohistory" from the *Foundation* series —the science of predicting the behavioral trends of billions of people using mathematical formulas— has long been viewed as a sci-fi fantasy. Traditional sociology and econometrics have consistently failed to predict non-linear social phase transitions (revolutions, collapses, sudden ideological shifts) because they could not quantify the asymmetric and dynamic nature of the human spirit, beliefs, and collective emotions.
