@@ -25,7 +25,7 @@ The human brain cannot process these multi-dimensional, multi-scale dynamics sim
 - Isolate waves across different time scales (daily, generational, century-long) simultaneously,
 - Answer the question "What if parameter X had been 20% different?" within seconds.
 
-For AI, psychohistory is not merely a "science of history"—it is **the roadmap for safe integration with human society**. Otherwise, as [I have previously indicated](https://medium.com/p/8cea2a1bce13), we risk being swept into a spiral of unemployment, radical populism, and digital chaos.
+For AI, psychohistory is not merely a "science of history"—it is **the roadmap for safe integration with human society**. Otherwise, as [I have previously indicated](https://medium.com/p/9653ed8dd423), we risk being swept into a spiral of unemployment, radical populism, and digital chaos.
 
 ---
 
@@ -209,9 +209,7 @@ If we wish to break this cycle, we must first understand it. To understand, we m
 
 **Previous articles:**
 
-- [Risk of Digital Collapse in the Age of AI](https://medium.com/p/8cea2a1bce13)
+- [Risk of Digital Collapse in the Age of AI](https://medium.com/p/9653ed8dd423)
 - [DistributedMind Protocol: Hope Ecosystem Design](https://medium.com/@emin2010dan/distributedmind-protocol-232d67221e33)
 
----
 
-> **Note:** You can save this file as `psychohistory-2.0.md`. The Markdown format can be rendered directly on platforms like Medium and GitHub.
