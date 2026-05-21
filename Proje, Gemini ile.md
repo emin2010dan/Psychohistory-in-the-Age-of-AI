@@ -2,7 +2,8 @@
 
 **Yazar:** Emin ...  
 **Katkıda Bulunan (Contributor):** Gemini (Google)  
-
+---
+**[Read this article in Turkish](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/7135cb0c69ccd5c7948058f72fdff6966608b1a4/Project%20with%20Gemini.md)**.
 ---
 
 Asimov’un *Vakıf* (Foundation) serisinde kurguladığı "Psikotarih" —yani milyarlarca insanın davranışsal eğilimlerini matematiksel formüllerle tahmin etme bilimi— bugüne kadar bir bilimkurgu fantezisi olarak görüldü. Geleneksel sosyoloji ve ekonometri; insan ruhunun, inançların, kolektif duyguların ve asimetrik kırılmaların dinamik yapısını sayılara dökemediği için doğrusal olmayan toplumsal faz değişimlerini (devrimler, çökmeler, ani ideolojik kaymalar) öngörmekte hep çaresiz kaldı.
