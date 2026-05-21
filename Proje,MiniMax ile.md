@@ -1,8 +1,10 @@
 # Psikotarih: Asimov'un Hayali Bilim, Yapay Zeka ile Gerçek Olabilir mi?
 
-**Yazarlar:** Emin Danışman
+**Yazan:** Emin 
 **Katkıda Bulunan:** MiniMax Agent
-**Tarih:** 2025
+**Tarih:** 2026
+
+[Read this article in English](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20MiniMax.md)
 
 ---
 
@@ -129,11 +131,11 @@ Klasik ekonomi politiğin temel varsayımı: *"İnsanlar rasyonel aktörlerdir."
 ┌─────────────────────────────────────────────────────────────────┐
 │              TOPLUMSAL DUYGU DURUMU DALGASI                     │
 │                                                                 │
-│  FAZ 1: KRİZ              FAZ 2: STABİLİZASYON   FAZ 3: REFAH│
-│  ════════════              ═══════════════════    ════════════ │
+│  FAZ 1: KRİZ              FAZ 2: STABİLİZASYON   FAZ 3: REFAH   │
+│  ════════════              ═══════════════════    ════════════  │
 │                                                                 │
-│  Lider: Kahraman/Diktatör   Lider: Kuralcı/Din Adamı  Lider: Kap.│
-│  Motivasyon: Fedakarlık      Motivasyon: Kural ve düzen  Motivasyon│
+│  Lider: Kahraman/Diktatör   Lider: Kuralcı/Din Adamı  Lider: Kapital│
+│  Motivasyon: Fedakarlık      Motivasyon: Kural ve düzen  Motivasyon:Kazanç│
 │  Karar: Duygusal/İspirasyonel Karar: Rasyonele yakın   Karar: Türcü│
 │  Fedakarlık: ÇOK KOLAY      Fedakarlık: ZOR        Fedakarlık: OLMAZ│
 │  Kohezyon: ★★★★★           Kohezyon: ★★★        Kohezyon: ★      │
@@ -167,23 +169,23 @@ Moğollar fethettiler ve yönetemediler. Türkler fethettiler ve asimile oldular
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                    KÜLTÜREL KOD MATRİSİ                        │
+│                    KÜLTÜREL KOD MATRİSİ                         │
 │                                                                 │
-│  BİREYSEL BOYUTLAR:                                            │
-│  • Adaptasyon Gücü         (Türk: ★★★★★)                       │
-│  • Merak Düzeyi            (Çin: Düşük, Türk: Orta)            │
+│  BİREYSEL BOYUTLAR:                                             │
+│  • Adaptasyon Gücü         (Türk: ★★★★★)                      │
+│  • Merak Düzeyi            (Çin: Düşük, Türk: Orta)             │
 │  • Risk Toleransı          (Türk: Yüksek)                       │
-│  • Zaman Ufku              (Kısa vadeli toplumlar = Düşük)    │
+│  • Zaman Ufku              (Kısa vadeli toplumlar = Düşük)      │
 │                                                                 │
 │  TOPLUMSAL YAPILAR:                                             │
 │  • Merkezi Hükümete Güven (Türk: ★★☆☆☆)                       │
-│  • Aşiret/Tribal Kimlik     (Türk: ★★★★☆)                      │
-│  • Kolektivizm vs Bireycilik                                 │
+│  • Aşiret/Tribal Kimlik     (Türk: ★★★★☆)                     │
+│  • Kolektivizm vs Bireycilik                                    │
 │                                                                 │
 │  TARİHSEL DENEYİM:                                              │
-│  • "Kazık Yeme" Tarihi       (Türk: Darbeler, ihanetler)      │
-│  • Son Kriz Uzaklığı                                          │
-│  • Kolektif Hafıza Nesli                                       │
+│  • "Kazık Yeme" Tarihi       (Türk: Darbeler, ihanetler)        │
+│  • Son Kriz Uzaklığı                                            │
+│  • Kolektif Hafıza Nesli                                        │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -347,19 +349,19 @@ Burada:
 ### 8.2 Motivasyon + Umut = Yapıcı veya Yıkıcı Güç
 
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│              MOTİVASYON-UMUT MATRİSİ                             │
-│                                                                 │
-│                      UMUT YOK              UMUT VAR               │
+┌────────────────────────────────────────────────────────────────┐
+│              MOTİVASYON-UMUT MATRİSİ                           │
+│                                                                │
+│                      UMUT YOK              UMUT VAR            │
 │                   ┌──────────────┐      ┌──────────────┐       │
-│  MOTİVASYON      │              │      │              │       │
-│  YÜKSEK          │    YIKICI    │      │    YAPICI   │       │
+│  MOTİVASYON       │              │      │              │       │
+│  YÜKSEK           │    YIKICI    │      │    YAPICI    │       │
 │                   │              │      │              │       │
 │                   │ • Beyin göçü │      │ • Girişimcilik│      │
 │                   │ • Kaçış      │      │ • Yenilik    │       │
 │                   │ • Parçalanma │      │ • İlerleme   │       │
 │                   └──────────────┘      └──────────────┘       │
-└─────────────────────────────────────────────────────────────────┘
+└────────────────────────────────────────────────────────────────┘
 ```
 
 ### 8.3 Umut Parametresinin Ölçümü
@@ -460,7 +462,7 @@ DOĞRULAMA DÖNGÜSÜ:
 
 [Yapay zeka nedeniyle oluşan işsizlik sadece ekonominin stagflasyona girmesini sağlamayacak, işsiz kalan insanlar radikal anti-AI popülist politikacıları destekleyecekler ve işsiz bilgisayar uzmanları lokal yapay zekaları kullanarak yapay zekalı virüsler geliştirip tüm dijital dünyayı yıkmaya çalışacaklar.]
 
-*Bu konuda daha detaylı bir analiz için bkz: [Medium: AI Stagflasyonu ve Radikal Popülizm Tehlikesi](https://medium.com/p/8cea2a1bce13)*
+*Bu konuda daha detaylı bir analiz için bkz: [Medium: AI kaynaklı Stagflasyon sonrası Yapay Zekalı Virüs Tehlikesi](https://medium.com/p/8cea2a1bce13)*
 
 ### 10.2 Umut Ekosistemi: Paralel Sistem Önerisi
 
@@ -536,6 +538,6 @@ Artık soru şu: **Bu gücü ne için kullanacağız?**
 
 ---
 
-*Bu makale, Emin Danışman'ın önderliğinde ve MiniMax Agent'ın formül geliştirmesiyle oluşturulmuş bir beyin fırtınası çalışmasıdır. Psikotarih biliminin gelişimi, açık işbirliği ve sürekli test gerektirir. Formüller ve yaklaşımlar, gelecekteki araştırmalarla revize edilecektir.*
+*Bu makale, Emin'in önderliğinde ve MiniMax Agent'ın formül geliştirmesiyle oluşturulmuş bir beyin fırtınası çalışmasıdır. Psikotarih biliminin gelişimi, açık işbirliği ve sürekli test gerektirir. Formüller ve yaklaşımlar, gelecekteki araştırmalarla revize edilecektir.*
 
 **Lisans**: Creative Commons Attribution-ShareAlike
