@@ -1,6 +1,6 @@
 # Psikotarih 2.0: Yapay Zeka Çağında Tarihin Matematiği
 
-## Katkıda Bulunan Kimi
+### Katkıda Bulunan Kimi
 
 [Read this article in English](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Kimi.md)
 
