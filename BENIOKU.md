@@ -5,6 +5,10 @@
 **GitHub:** [Psychohistory in the Age of AI](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI)
 
 ---
+[Yapay Zeka Çağında Psikotarih(Bölüm 1): Geleceği Okumak ve Yeniden İnşa Etmek](https://medium.com/@emin2010dan/yapay-zeka-%C3%A7a%C4%9F%C4%B1nda-psikotarih-b%C3%B6l%C3%BCm-1-gelece%C4%9Fi-okumak-ve-yeniden-i%CC%87n%C5%9Fa-etmek-20b033ef1a55)
+
+[Yapay Zeka Çağında Psikotarih(Bölüm 2): On İki Zihinle Bir Bilimin Doğuşu](https://medium.com/@emin2010dan/yapay-zeka-%C3%A7a%C4%9F%C4%B1nda-psikotarih-b%C3%B6l%C3%BCm-2-on-i%CC%87ki-zihinle-bir-bilimin-do%C4%9Fu%C5%9Fu-6bdc6dd4f3d0)
+
 
 ## Başlangıç: Bir Fikir, On İki Ayna
 
