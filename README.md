@@ -5,6 +5,13 @@
 **GitHub:** [Psychohistory in the Age of AI](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI)
 
 ---
+[Psychohistory in the Age of AI(Part 1): Reading and Rebuilding the Future](https://medium.com/@emin2010dan/psychohistory-in-the-age-of-ai-part-1-reading-and-rebuilding-the-future-c7841cafa5c1)
+
+[Psychohistory in the Age of AI(Part 2): The Birth of a Science Through Twelve Minds](https://medium.com/@emin2010dan/psychohistory-in-the-age-of-ai-part-2-the-birth-of-a-science-through-twelve-minds-18804c03a56b)
+
+
+
+
 
 ## The Beginning: One Idea, Twelve Mirrors
 
