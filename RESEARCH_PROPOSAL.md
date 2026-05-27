@@ -1,7 +1,7 @@
 # Research Proposal: Empirical Validation of Psychohistory Formulas
 
 **Project:** Psychohistory in the Age of AI  
-**Author:** Emin Eminzade  
+**Author:** Emin 
 **GitHub:** [Psychohistory-in-the-Age-of-AI](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI)  
 **Status:** Open for collaboration — students, researchers, and independent scientists welcome  
 **Last updated:** May 2026
