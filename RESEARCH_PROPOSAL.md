@@ -194,7 +194,7 @@ Asimov's Hari Seldon did not use psychohistory to predict the future passively. 
 
 ## Contact and Collaboration
 
-**Author:** Emin Eminzade  
+**Author:** Emin 
 **Medium:** [medium.com/@emin2010dan](https://medium.com/@emin2010dan)  
 **GitHub:** [github.com/emin2010dan](https://github.com/emin2010dan)
 
