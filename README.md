@@ -1,7 +1,7 @@
 # Psychohistory in the Age of AI: The Birth of a Science Through Twelve Minds
 
 **Author:** Emin  
-**Contributors:** ChatGPT (OpenAI), Claude (Anthropic), Gemini (Google), Grok (xAI), DeepSeek, Meta AI, Qwen, Kimi, MiniMax, Replit, Copilot (Microsoft), Z.ai  
+**Contributors:** ChatGPT (OpenAI), Claude (Anthropic), Gemini (Google), Grok (xAI), DeepSeek, Meta AI, Qwen, Kimi, MiniMax, Replit, Copilot (Microsoft), Z.ai , Mistral 
 **GitHub:** [Psychohistory in the Age of AI](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI)
 
 ---
@@ -21,7 +21,7 @@ Today, the tools have changed.
 
 This project began with a question: in an age when artificial intelligence is entering human society at such speed, can a genuine science of understanding societies be built? And if so, which AI can best formulate which part of that science?
 
-The same foundational ideas were presented to twelve different AI systems: ChatGPT, Claude, Gemini, Grok, DeepSeek, Meta AI, Qwen, Kimi, MiniMax, Replit, Copilot, and Z.ai. Each was given the same framework — historical patterns, wave analysis, cultural code, motivation and hope parameters. Each modeled that framework from its own perspective, expressed it in its own formulas, and constructed its own mathematical architecture.
+The same foundational ideas were presented to twelve different AI systems: ChatGPT, Claude, Gemini, Grok, DeepSeek, Meta AI, Qwen, Kimi, MiniMax, Replit, Copilot, and Z.ai (and later Mistral). Each was given the same framework — historical patterns, wave analysis, cultural code, motivation and hope parameters. Each modeled that framework from its own perspective, expressed it in its own formulas, and constructed its own mathematical architecture.
 
 The result: twelve articles, twelve different approaches, and the first genuine drafts of psychohistory as a science.
 
@@ -33,7 +33,7 @@ Artificial intelligence is creating unemployment. This is not an ordinary econom
 
 In earlier articles I examined this danger in detail:
 
-- [The Risk of Digital Collapse in the Age of AI](https://medium.com/p/8cea2a1bce13) — Digital destruction scenarios that displaced technical talent could produce using local AI models.
+- [The Risk of Digital Collapse in the Age of AI](https://medium.com/@emin2010dan/ai-powered-viruses-the-coming-storm-and-how-to-prepare-9653ed8dd423) — Digital destruction scenarios that displaced technical talent could produce using local AI models.
 - [DistributedMind Protocol: Designing an Ecosystem of Hope](https://medium.com/@emin2010dan/distributedmind-protocol-232d67221e33) — A distributed, federated AI ecosystem proposal to prevent that collapse.
 
 Psychohistory is the science that connects these two points: the mathematical framework needed both to see the danger coming and to intervene against it.
@@ -248,6 +248,12 @@ But he had to start somewhere.
 | Replit | [Project with Replit](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Replit.md) | Resonance trap, memory decay model |
 | Copilot | [Project with Copilot](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Copilot.md) | Six-parameter core, pilot plan |
 | Z.ai | [Project with Z.ai](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Z.ai.md) | Social physics equation, helium/molasses culture distinction |
+
+Articles that are added later: 
+
+| AI System | Article Link | 
+|---|---|
+| Mistral | [Project with Mistral](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Mistral.md) | 
 
 ---
 
