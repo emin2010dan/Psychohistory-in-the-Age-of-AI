@@ -1,7 +1,7 @@
-# Yapay Zeka Çağında Psikotarih: On İki Zihinle Bir Bilimin Doğuşu
+# Yapay Zeka Çağında Psikotarih: On iki Zihinle Bir Bilimin Doğuşu
 
 **Yazar:** Emin  
-**Katkıda Bulunanlar:** ChatGPT (OpenAI), Claude (Anthropic), Gemini (Google), Grok (xAI), DeepSeek, Meta AI, Qwen, Kimi, MiniMax, Replit, Copilot (Microsoft), Z.ai  
+**Katkıda Bulunanlar:** ChatGPT (OpenAI), Claude (Anthropic), Gemini (Google), Grok (xAI), DeepSeek, Meta AI, Qwen, Kimi, MiniMax, Replit, Copilot (Microsoft), Z.ai + Mistral 
 **GitHub:** [Psychohistory in the Age of AI](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI)
 
 ---
@@ -18,7 +18,7 @@ Bugün araçlar değişti.
 
 Bu proje şu soruyla başladı: Yapay zekanın insan toplumuna bu kadar hızlı girdiği bir çağda, toplumları anlamak için gerçek bir bilim kurulabilir mi? Ve eğer kurulacaksa, hangi yapay zeka bu bilimin hangi parçasını en iyi formüle eder?
 
-Aynı temel fikirler on iki farklı yapay zeka sistemine aktarıldı: ChatGPT, Claude, Gemini, Grok, DeepSeek, Meta AI, Qwen, Kimi, MiniMax, Replit, Copilot ve Z.ai. Her birine aynı çerçeve verildi — tarihsel örüntüler, dalga analizi, kültürel kod, motivasyon ve umut parametreleri. Her biri bu çerçeveyi kendi perspektifinden modelledi, kendi formülleriyle ifade etti, kendi matematiksel mimarisini kurdu.
+Aynı temel fikirler on iki farklı yapay zeka sistemine aktarıldı: ChatGPT, Claude, Gemini, Grok, DeepSeek, Meta AI, Qwen, Kimi, MiniMax, Replit, Copilot ve Z.ai. Her birine aynı çerçeve verildi — tarihsel örüntüler, dalga analizi, kültürel kod, motivasyon ve umut parametreleri. Her biri bu çerçeveyi kendi perspektifinden modelledi, kendi formülleriyle ifade etti, kendi matematiksel mimarisini kurdu. Sonradan Mistralin çalışmaları da ilave edildi.
 
 Sonuç: On iki makale, on iki farklı yaklaşım ve psikotarih biliminin ilk gerçek taslakları.
 
@@ -30,7 +30,7 @@ Yapay zeka işsizlik yaratıyor. Bu işsizlik sıradan bir ekonomik sorun değil
 
 Daha önce yayımladığım makalelerde bu tehlikeyi ayrıntılı inceledim:
 
-- [Yapay Zeka Çağında Dijital Çöküş Riski](https://medium.com/p/8cea2a1bce13) — İşsiz kalan teknik yeteneklerin yerel yapay zekalarla üretebileceği dijital yıkım senaryoları.
+- [Yapay Zeka Çağında Dijital Çöküş Riski](https://medium.com/@emin2010dan/ai-powered-viruses-the-coming-storm-and-how-to-prepare-9653ed8dd423) — İşsiz kalan teknik yeteneklerin yerel yapay zekalarla üretebileceği dijital yıkım senaryoları.
 - [DistributedMind Protocol: Umut Ekosistemi Tasarımı](https://medium.com/@emin2010dan/distributedmind-protocol-232d67221e33) — Bu yıkımı önleyecek dağıtık, federe bir yapay zeka ekosistemi önerisi.
 
 Psikotarih bu iki noktayı birbirine bağlayan bilimdir: tehlikeyi görmek ve ona müdahale etmek için gereken matematiksel çerçeve.
@@ -245,6 +245,11 @@ Ama bir yerde başlamak gerekiyordu.
 | Replit | [Proje ile Replit](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Replit.md) | Rezonans tuzağı, hafıza bozunma modeli |
 | Copilot | [Proje ile Copilot](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Copilot.md) | Altı parametreli çekirdek, pilot plan |
 | Z.ai | [Proje ile Z.ai](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Z.ai.md) | Sosyal fizik denklemi, helyum/pekmez kültür ayrımı |
+
+Sonradan eklenen Çalışmalar: 
+| Yapay Zeka | Makale Bağlantısı |
+|---|---|
+| Mistral | [Project with Mistral](https://github.com/emin2010dan/Psychohistory-in-the-Age-of-AI/blob/main/Project%20with%20Mistral.md) | 
 
 ---
 
